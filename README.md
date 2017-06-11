@@ -1,1 +1,1 @@
-# regular-expression
+Regular expression engines are eager.
